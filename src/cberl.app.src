@@ -7,7 +7,7 @@
                   kernel,
                   stdlib,
                   poolboy,
-                  jiffy
+                  jsonx
                  ]},
   {mod, { cberl_app, []}},
   {env, []}
